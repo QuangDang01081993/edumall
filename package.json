@@ -1,0 +1,29 @@
+{
+  "name": "myapp",
+  "version": "1.0.0",
+  "description": "my first nodejs application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuangDang01081993/edumall.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QuangDang01081993/edumall/issues"
+  },
+  "homepage": "https://github.com/QuangDang01081993/edumall#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "express": "^4.14.0",
+    "lodash": "^4.17.2"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "grunt": "^1.0.1",
+    "mocha": "^3.2.0"
+  }
+}
